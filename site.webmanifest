@@ -1,0 +1,9 @@
+{
+  "name": "Capital Passante Cars — Location de voitures Casablanca",
+  "short_name": "Capital Passante",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f2ea",
+  "theme_color": "#0b2a22",
+  "icons": [{ "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
